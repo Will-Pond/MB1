@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ClassApp</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="a_picture_of_a_character_in_Pokemon">a picture of a character in Pokemon</string>
+    <string name="name">Name: %s</string>
+    <string name="url">url: %s</string>
+    <string name="type">type: %s</string>
+    <string name="hp">hp: %s</string>
+    <string name="atk">atk: %s</string>
+    <string name="weight">weight: %s</string>
+    <string name="an_unknown_error_occurred">An unknown error occurred.</string>
+</resources>
